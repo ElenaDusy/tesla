@@ -61,7 +61,7 @@ nav{
 }
 .tesla_title{
     text-align: center;
-    background-image: url(../img/Tesla\ logo\ +\ car.png);
+    background-image: url(../img/Tesla logo + car.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 594px;
@@ -284,7 +284,7 @@ nav{
     margin-top: 37px;
 }
 .main__inner {
-    background-image: url(../img/2013-tesla-model-s-cockpit.png);
+    background-image: url(./img/2013-tesla-model-s-cockpit.png);
     background-repeat: no-repeat; 
     background-size: contain;
     display: flex;
