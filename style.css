@@ -439,7 +439,7 @@ nav{
         flex-direction: column;
     }
     .right-section {
-        background-image: url(../img/2013tesla.png);
+        background-image: url(./img/2013tesla.png);
         background-size: contain;
         background-repeat: no-repeat;
         padding-top: 337px;
